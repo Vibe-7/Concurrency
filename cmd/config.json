@@ -1,0 +1,11 @@
+{
+	"urls": [
+		"https://google.com",
+		"https://bing.com",
+		"https://wikipedia.org",
+		"https://wildberries.ru",
+		"https://ozon.ru",
+		"https://vk.com"
+	],
+	"timeout": "10s"
+}
